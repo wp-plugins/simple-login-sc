@@ -47,9 +47,6 @@ Nope! Any number you need and it starts at zero.
 
 == Screenshots ==
 
-`screenshot-1.jpg`
-`screenshot-2.jpg`
-
 == Changelog ==
 
 = 0.8 =
