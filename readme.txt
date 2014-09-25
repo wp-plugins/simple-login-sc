@@ -7,7 +7,7 @@ Stable tag: 0.8
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
-Add a simple login form via a shortcode and does not add any extraneous code to slow your website. It just uses the core functions of WordPress.
+Adds a simple login form via a shortcode and does not add any extraneous code to slow your website. It just uses the core functions of WordPress.
 
 == Description ==
 
@@ -47,8 +47,8 @@ Nope! Any number you need and it starts at zero.
 
 == Screenshots ==
 
-`/trunk/screenshot-1.jpg`
-`/trunk/screenshot-2.jpg`
+`/screenshot-1.jpg`
+`/screenshot-2.jpg`
 
 == Changelog ==
 
