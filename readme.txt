@@ -47,8 +47,8 @@ Nope! Any number you need and it starts at zero.
 
 == Screenshots ==
 
-/trunk/screenshot-1.jpg
-/trunk/screenshot-2.jpg
+`/trunk/screenshot-1.jpg`
+`/trunk/screenshot-2.jpg`
 
 == Changelog ==
 
