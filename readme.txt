@@ -42,13 +42,13 @@ This section describes how to install the plugin and get it working.
 
 = Do I have to use all the shortcodes attributes? =
 
-Nope! Any number you need adn it starts at zero.
+Nope! Any number you need and it starts at zero.
 
 
 == Screenshots ==
 
-1.
-2.
+screenshot-1.jpg
+screenshot-2.jpg
 
 == Changelog ==
 
