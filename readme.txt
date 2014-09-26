@@ -50,7 +50,8 @@ Nope! It only logs in or logs out a user. If you need a redirect on log in and/o
 
 == Screenshots ==
 
-1. These screenshots show which label can be set with the shortcode attributes. eg username_label, password_label, button_text, welcome_text, logouttext.
+1. These screenshots show which label can be set with the shortcode attributes. eg username_label, password_label, button_text,
+2. welcome_text, logouttext.
 
 == Changelog ==
 
