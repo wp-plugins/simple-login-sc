@@ -46,7 +46,8 @@ Nope! Any number you need and it starts at zero.
 
 = Is the plugin have redirect functionality? = 
 
-Nope! It only logs in or logs out a user. If you need a redirect on log in and/or log out, we suggest you to use 'Peter's Login Redirect' plugin. It works great with Simple Login SC.
+Nope! It only logs in or logs out a user. If you need a redirect on log in and/or log out, we suggest you to install 'Peter's Login Redirect' plugin too. They work great together.
+Two plugins that each focus on one thing and doing it right!
 
 == Screenshots ==
 
