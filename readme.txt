@@ -34,7 +34,7 @@ If you do not set one or all of the optional text, the default text of WordPress
 
 This section describes how to install the plugin and get it working.
 
-1. Upload and decompress `simple_login_sc.zip` to the `/wp-content/plugins/` directory
+1. Upload and decompress `simple-login-sc.zip` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. Go to the menu Tools -> Simple Login SC for the usage instructions
 
@@ -44,8 +44,13 @@ This section describes how to install the plugin and get it working.
 
 Nope! Any number you need and it starts at zero.
 
+= Is the plugin have redirect functionality? = 
+
+Nope! It only logs in or logs out a user. If you need a redirect on log in and/or log out, we suggest you to use 'Peter's Login Redirect' plugin. It works great with Simple Login SC.
 
 == Screenshots ==
+
+These screenshots show which label can be set with the shortcode attributes. eg username_label, password_label, button_text, welcome_text, logouttext.
 
 == Changelog ==
 
