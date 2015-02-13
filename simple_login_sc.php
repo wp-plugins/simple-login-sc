@@ -2,7 +2,7 @@
     /*
     Plugin Name: Simple Login SC
     Plugin URI: http://www.pointzeronord.com
-    Description: Add a simple login form via a shortcode and does not add any extraneous code to slow your website. It just uses the core functions of WordPress.
+    Description: Add a simple login form via a shortcode and does not add any extraneous code to slowdown your website. It just uses the core functions of WordPress.
     Author: PointZeroNord, Ghyslain Drolet
     Version: 0.8
     Author URI: http://www.pointzeronord.com
